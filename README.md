@@ -1,2 +1,2 @@
-# unit-4-game
-HW 4
+# TriviaGame
+HW JS2
