@@ -1,2 +1,2 @@
-# TriviaGame
-HW JS2
+# GifTastic
+ajax HW

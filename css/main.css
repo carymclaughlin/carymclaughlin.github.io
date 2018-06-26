@@ -1,0 +1,17 @@
+#find-animal{
+    color:white;
+    background-color: #343a40
+}
+#animal-buttons{
+    height: 70px;
+}
+#animal-form{
+    text-align: right;
+    margin-right: 100px;
+}
+h1{
+    font-family: cursive;
+    text-align: center;
+    color: crimson;
+    padding-top: 25px;
+}
